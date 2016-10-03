@@ -2,6 +2,11 @@
 ### Analytics Vidhya ultimate student challenge
 
 In this challenge, dataset with a lot of missing values are given and students have to predict footfalls based on given features.
+
+Competition link: https://datahack.analyticsvidhya.com/contest/the-ultimate-student-hunt/
+
+### Dataset description:
+
 ```
 Variable                        Definition  
 ID                              Unique ID  
