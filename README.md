@@ -1,6 +1,8 @@
 # Predicting footfall using ensemble methods 
 ### Analytics Vidhya ultimate student challenge
-
+  {  
+        "trim_trailing_white_space_on_save": false  
+    }
 In this challenge, dataset with a lot of missing values are given and students have to predict footfalls based on given features.
 
 Variable                          Definition  
