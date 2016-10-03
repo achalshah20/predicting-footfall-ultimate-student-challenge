@@ -1,10 +1,8 @@
 # Predicting footfall using ensemble methods 
 ### Analytics Vidhya ultimate student challenge
-  {  
-        "trim_trailing_white_space_on_save": false  
-    }
-In this challenge, dataset with a lot of missing values are given and students have to predict footfalls based on given features.
 
+In this challenge, dataset with a lot of missing values are given and students have to predict footfalls based on given features.
+```
 Variable                          Definition  
 ID                              Unique ID  
 Park_ID                         Unique ID for Parks  
@@ -24,3 +22,4 @@ Max_Moisture_In_Park            Daily maximum moisture
 Min_Moisture_In_Park            Daily minimum moisture  
 Location_Type                   Location Type (1/2/3/4)  
 Footfall                        Target Variable: Daily Footfall  
+```
