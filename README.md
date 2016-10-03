@@ -3,7 +3,7 @@
 
 In this challenge, dataset with a lot of missing values are given and students have to predict footfalls based on given features.
 ```
-Variable                          Definition  
+Variable                        Definition  
 ID                              Unique ID  
 Park_ID                         Unique ID for Parks  
 Date                            Calendar Date  
